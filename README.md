@@ -8,11 +8,11 @@
 
 ## 📊 About Me  
 - 🎓 Petroleum Engineer (Universidad de América) and MSc in Renewable Energy & Sustainability (Universitat de Barcelona).  
-- 📈 Experienced in database optimization, reporting, and data-driven decision support through projects with Ecopetrol and contracting companies.  
+- 📈 Experienced in database optimization, reporting, and data-driven decision support through projects with Ecopetrol.  
 - 🧩 Recently completed the **Data Science Bootcamp (TripleTen Latam)** and **IBM SkillsBuild – Data Fundamentals**, with hands-on projects in data cleaning, EDA, visualization, and ML.  
 - 🌍 Multilingual: Spanish (native), English (advanced), French (basic).  
 - 🔎 Passionate about continuous learning and applying data & programming skills to create business insights and solutions.  
-- 🚀 **Currently seeking opportunities as a Data Analyst or Junior Data Scientist**, where I can leverage my background and keep growing in the tech field.  
+- 🚀 **Currently seeking opportunities as a Data Analyst or Data Scientist**, where I can leverage my background and keep growing in the tech field.  
 
 ---
 
